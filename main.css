@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+body{
+background-color:#50514F;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    margin: auto;
+    padding: 5px;
+    color: white;
+}
+
+.profile{
+    border: 1px solid white;
+    border-radius:200px ;
+}
+
+nav{
+    text-align: right;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    font-size: 5em;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    color: white;
+    font-family: sans-serif;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+    padding: 5px 130px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.buttons{
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
